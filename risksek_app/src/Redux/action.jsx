@@ -28,5 +28,5 @@ export const getData = () => (dispatch) => {
     dispatch(getDataRequest());
     axios.get("http://localhost:8080/All")
     .then((res) => dispatch(getDataSuccess(res.data.All)))
-    .catch((err) => dispatch(getDataFailure(err.response)))
+    .catch((err) => dispatch(getDataFailure(err.res)))
 }

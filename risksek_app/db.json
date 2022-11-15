@@ -2,11 +2,11 @@
     "All": [
         {
             "Number": 0,
-            "PROJECT NAME": "Allosaurus web app",
+            "PROJECTNAME": "Allosaurus web app",
             "STATUS": "On track",
-            "LAST UPDATE": "15 Mar 2021 12:47 PM",
+            "LASTUPDATE": "15 Mar 2021 12:47 PM",
             "RESOURCES": "3",
-            "PROJECT TIMELINE": {
+            "PROJECTTIMELINE": {
                 "start": "15 May 2021",
                 "end": "15 Aug 2021"
             },
@@ -14,11 +14,11 @@
         },
         {
             "Number": 1,
-            "PROJECT NAME": "MicroRaptor website",
+            "PROJECTNAME": "MicroRaptor website",
             "STATUS": "On track",
-            "LAST UPDATE": "15 Mar 2021 12:47 PM",
+            "LASTUPDATE": "15 Mar 2021 12:47 PM",
             "RESOURCES": "3",
-            "PROJECT TIMELINE": {
+            "PROJECTTIMELINE": {
                 "start": "15 May 2021",
                 "end": "15 Aug 2021"
             },
@@ -26,11 +26,11 @@
         },
         {
             "Number": 2,
-            "PROJECT NAME": "Tarius landing page",
+            "PROJECTNAME": "Tarius landing page",
             "STATUS": "On hold",
-            "LAST UPDATE": "15 Mar 2021 12:47 PM",
+            "LASTUPDATE": "15 Mar 2021 12:47 PM",
             "RESOURCES": "",
-            "PROJECT TIMELINE": {
+            "PROJECTTIMELINE": {
                 "start": "",
                 "end": ""
             },
@@ -38,11 +38,11 @@
         },
         {
             "Number": 3,
-            "PROJECT NAME": "Rugops App",
+            "PROJECTNAME": "Rugops App",
             "STATUS": "At risk",
-            "LAST UPDATE": "15 Mar 2021 12:47 PM",
+            "LASTUPDATE": "15 Mar 2021 12:47 PM",
             "RESOURCES": "3",
-            "PROJECT TIMELINE": {
+            "PROJECTTIMELINE": {
                 "start": "15 May 2021",
                 "end": "15 Aug 2021"
             },
@@ -50,11 +50,11 @@
         },
         {
             "Number": 4,
-            "PROJECT NAME": "Erketu",
+            "PROJECTNAME": "Erketu",
             "STATUS": "On track",
-            "LAST UPDATE": "15 Mar 2021 12:47 PM",
+            "LASTUPDATE": "15 Mar 2021 12:47 PM",
             "RESOURCES": "3",
-            "PROJECT TIMELINE": {
+            "PROJECTTIMELINE": {
                 "start": "15 May 2021",
                 "end": "15 Aug 2021"
             },
@@ -62,11 +62,11 @@
         },
         {
             "Number": 5,
-            "PROJECT NAME": "Capricorn",
+            "PROJECTNAME": "Capricorn",
             "STATUS": "On track",
-            "LAST UPDATE": "15 Mar 2021 12:47 PM",
+            "LASTUPDATE": "15 Mar 2021 12:47 PM",
             "RESOURCES": "3",
-            "PROJECT TIMELINE": {
+            "PROJECTTIMELINE": {
                 "start": "15 May 2021",
                 "end": "15 Aug 2021"
             },
@@ -74,11 +74,11 @@
         },
         {
             "Number": 6,
-            "PROJECT NAME": "Sagittarius",
+            "PROJECTNAME": "Sagittarius",
             "STATUS": "Potential risk",
-            "LAST UPDATE": "15 Mar 2021 12:47 PM",
+            "LASTUPDATE": "15 Mar 2021 12:47 PM",
             "RESOURCES": "",
-            "PROJECT TIMELINE": {
+            "PROJECTTIMELINE": {
                 "start": "15 May 2021",
                 "end": "15 Aug 2021"
             },
@@ -86,11 +86,11 @@
         },
         {
             "Number": 7,
-            "PROJECT NAME": "Gemini",
+            "PROJECTNAME": "Gemini",
             "STATUS": "On track",
-            "LAST UPDATE": "15 Mar 2021 12:47 PM",
+            "LASTUPDATE": "15 Mar 2021 12:47 PM",
             "RESOURCES": "3",
-            "PROJECT TIMELINE": {
+            "PROJECTTIMELINE": {
                 "start": "15 May 2021",
                 "end": "15 Aug 2021"
             },
@@ -98,11 +98,11 @@
         },
         {
             "Number": 8,
-            "PROJECT NAME": "Pisces",
+            "PROJECTNAME": "Pisces",
             "STATUS": "On track",
-            "LAST UPDATE": "15 Mar 2021 12:47 PM",
+            "LASTUPDATE": "15 Mar 2021 12:47 PM",
             "RESOURCES": "3",
-            "PROJECT TIMELINE": {
+            "PROJECTTIMELINE": {
                 "start": "15 May 2021",
                 "end": "15 Aug 2021"
             },
@@ -110,11 +110,11 @@
         },
         {
             "Number": 9,
-            "PROJECT NAME": "Tarius",
+            "PROJECTNAME": "Tarius",
             "STATUS": "On hold",
-            "LAST UPDATE": "15 Mar 2021 12:47 PM",
+            "LASTUPDATE": "15 Mar 2021 12:47 PM",
             "RESOURCES": "",
-            "PROJECT TIMELINE": {
+            "PROJECTTIMELINE": {
                 "start": "",
                 "end": ""
             },
@@ -122,11 +122,11 @@
         },
         {
             "Number": 10,
-            "PROJECT NAME": "Osiris",
+            "PROJECTNAME": "Osiris",
             "STATUS": "At risk",
-            "LAST UPDATE": "15 Mar 2021 12:47 PM",
+            "LASTUPDATE": "15 Mar 2021 12:47 PM",
             "RESOURCES": "3",
-            "PROJECT TIMELINE": {
+            "PROJECTTIMELINE": {
                 "start": "15 May 2021",
                 "end": "15 Aug 2021"
             },
@@ -134,11 +134,11 @@
         },
         {
             "Number": 11,
-            "PROJECT NAME": "Erketu",
+            "PROJECTNAME": "Erketu",
             "STATUS": "On track",
-            "LAST UPDATE": "15 Mar 2021 12:47 PM",
+            "LASTUPDATE": "15 Mar 2021 12:47 PM",
             "RESOURCES": "3",
-            "PROJECT TIMELINE": {
+            "PROJECTTIMELINE": {
                 "start": "15 May 2021",
                 "end": "15 Aug 2021"
             },
@@ -146,11 +146,11 @@
         },
         {
             "Number": 12,
-            "PROJECT NAME": "Capricorn",
+            "PROJECTNAME": "Capricorn",
             "STATUS": "On track",
-            "LAST UPDATE": "15 Mar 2021 12:47 PM",
+            "LASTUPDATE": "15 Mar 2021 12:47 PM",
             "RESOURCES": "3",
-            "PROJECT TIMELINE": {
+            "PROJECTTIMELINE": {
                 "start": "15 May 2021",
                 "end": "15 Aug 2021"
             },
@@ -158,11 +158,11 @@
         },
         {
             "Number": 13,
-            "PROJECT NAME": "Sagittarius",
+            "PROJECTNAME": "Sagittarius",
             "STATUS": "Potential risk",
-            "LAST UPDATE": "15 Mar 2021 12:47 PM",
+            "LASTUPDATE": "15 Mar 2021 12:47 PM",
             "RESOURCES": "",
-            "PROJECT TIMELINE": {
+            "PROJECTTIMELINE": {
                 "start": "15 May 2021",
                 "end": "15 Aug 2021"
             },
