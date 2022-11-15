@@ -29,10 +29,10 @@
             "PROJECTNAME": "Tarius landing page",
             "STATUS": "On hold",
             "LASTUPDATE": "15 Mar 2021 12:47 PM",
-            "RESOURCES": "",
+            "RESOURCES": "-",
             "PROJECTTIMELINE": {
-                "start": "",
-                "end": ""
+                "start": "-",
+                "end": "-"
             },
             "ESTIMATION": "USS 10.5k"
         },
@@ -82,7 +82,7 @@
                 "start": "15 May 2021",
                 "end": "15 Aug 2021"
             },
-            "ESTIMATION": ""
+            "ESTIMATION": "-"
         },
         {
             "Number": 7,
@@ -113,10 +113,10 @@
             "PROJECTNAME": "Tarius",
             "STATUS": "On hold",
             "LASTUPDATE": "15 Mar 2021 12:47 PM",
-            "RESOURCES": "",
+            "RESOURCES": "-",
             "PROJECTTIMELINE": {
-                "start": "",
-                "end": ""
+                "start": "-",
+                "end": "-"
             },
             "ESTIMATION": "USS 10.5k"
         },
@@ -161,12 +161,12 @@
             "PROJECTNAME": "Sagittarius",
             "STATUS": "Potential risk",
             "LASTUPDATE": "15 Mar 2021 12:47 PM",
-            "RESOURCES": "",
+            "RESOURCES": "-",
             "PROJECTTIMELINE": {
                 "start": "15 May 2021",
                 "end": "15 Aug 2021"
             },
-            "ESTIMATION": ""
+            "ESTIMATION": "-"
         }
 
 
